@@ -1,0 +1,15 @@
+node_modules/
+debug.js
+debug2.js
+fix.js
+fix_all.js
+fix_dropdown.js
+integrate_supabase.js
+remove_books.js
+rename.js
+script.js
+script2.js
+test.js
+package-lock.json
+package.json
+product.txt
